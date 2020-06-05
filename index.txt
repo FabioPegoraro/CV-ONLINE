@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-				<title>Fabio de Carvalho, 28 anos, Empreendedor</title>
+				<title>Fabio Pegoraro, 28 anos, Empreendedor</title>
 	</head>
 	<body>
 			
@@ -14,7 +14,7 @@
 			<h2 style="font-family:Verdana">Quem sou eu:</h2>
 				
 
-				<p>Meu nome é <b>Fabio de Carvalho</b>, tenho 28 anos, tenho uma empresa de buffet de churrasco, trabalho no ramo a mais de 10 anos, 
+				<p>Meu nome é <b>Fabio de Carvalho Pegoraro Silva</b>, tenho uma empresa de buffet de churrasco, trabalho no ramo a mais de 10 anos, 
 		porem sempre me interessei por tecnologia e programação, mas nunca tive a oportunidade de me desenvolver nessa area e acredito 
 		que essa oportunidade da <b><i>Arbyte</i></b> irá ser uma otima oportunidade para isso.
 			</p><br>
@@ -40,7 +40,7 @@
 		</ul>
 		<br>
 			
-			<p style="font-family:"Verdana"> <b><i> Conquistas: </b></i></p>
+			<p style="font-family:Verdana"> <b><i> Conquistas: </b></i></p>
 						
 			<p>Ter a minha própria empresa de Buffet de Churrasco</p>
 	
