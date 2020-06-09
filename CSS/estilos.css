@@ -1,0 +1,29 @@
+h1 {
+
+    color: rgb(235, 136, 8);
+}
+       
+h2{
+    color: darkblue;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+  }
+  #menu ul {
+    padding:10px;
+    margin:10px;
+    background-color:rgb(219, 130, 47);
+    list-style:none;
+}
+
+#menu ul li { display: inline; 
+}
+#menu ul li a:hover {
+    background-color:rgb(219, 130, 47);
+    color: rgb(247, 247, 247);
+    border-bottom:5px solid rgb(219, 130, 47);
+}
