@@ -1,40 +1,57 @@
-h1 {
-
-    color: rgb(235, 136, 8);
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgb(247, 144, 60);
+    border-radius: 10px;
 }
-       
-h2{
-    color: darkblue;
 
+#menu li {
+    float: left;
+}
+  
+#menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+}
+  
+  /* Change the link color to #111 (black) on hover */
+#menu li a:hover {
+    background-color: rgb(255, 115, 0);
+  }
+
+.texto {
+    color: blue;
+    text-align: justify;
+}
+
+h1 {
+    color: crimson;
+    text-align: center
+}
+
+h2 {color: crimson;
+    text-align: 
 }
 
 ul {
     list-style-type: none;
-    margin: 10;
-    padding: 10;
-  }
-  #menu ul {
-    padding:10px;
-    margin:10px;
-    background-color:rgb(219, 130, 47);
-    list-style:none;
-    text-align: center;
 }
 
-#menu ul li { display: inline; 
+li {
+    color: blue
 }
-#menu ul li a:hover {
-    background-color:rgb(219, 130, 47);
-    color: rgb(247, 247, 247);
-    border-bottom:5px solid rgb(219, 130, 47);
-    
-}
+
 .footer {
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: rgb(245, 117, 12);
-    color: rgb(2, 0, 0);
+    background-color:rgb(238, 127, 36);
+    color: rgb(247, 247, 247);
     text-align: center;
- }
+}
